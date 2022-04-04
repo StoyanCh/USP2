@@ -1,0 +1,9 @@
+Edition: Windows 10 Pro
+Version: 21H1
+Inatlled on: 12.02.2022 г.
+OS build 19044.1586
+Experiance Windows Feature Experience Pack 120.2212.4170.0
+
+Edition: Mirosoft Edge
+Version: 98.0.1108.43
+Stable Channel Release week: 03.02.2022 
